@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hello,fuck you!"
+    echo "Hello"
 
 ?>
